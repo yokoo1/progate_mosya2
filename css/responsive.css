@@ -5,10 +5,25 @@
   }
 }
 @media (max-width: 670px) {
+  .top-wrapper h1 {
+    font-size: 30px;
+  }
+  .top-wrapper p {
+    font-size: 13px;
+  }
   .lesson {
     width: 100%;
   }
   footer {
     text-align: center;
+  }
+  .btn {
+    width: 100%;
+  }
+  .facebook {
+    margin-bottom: 30px;
+  }
+  .heading h2 {
+    font-size: 20px;
   }
 }

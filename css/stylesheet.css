@@ -13,12 +13,12 @@ body {
 .top-wrapper {
   background-image: url("https://github.com/yokoo1/progate_mosya2/blob/master/img/editor.jpeg?raw=true");
   background-size: cover;
-  height: 100%;
   padding: 120px 0px 120px 0px;
   text-align: center;
   color: white;
 }
 .container {
+  padding: 0px 15px;
   width: 100%;
   margin: auto;
 }
@@ -37,7 +37,9 @@ opacity: 0.9;
   padding: 15px 30px;
   border-radius: 4px;
   opacity: 0.7;
+  display: inline-block;
   color: aliceblue;
+  text-align: center;
 }
 .signup {
 background-color: yellowgreen;
