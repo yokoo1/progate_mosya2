@@ -4,6 +4,9 @@ a {
 * {
   box-sizing: border-box;
 }
+.clear {
+  clear: left;
+}
 .top-wrapper {
   background-image: url("../img/editor.jpeg");
   background-size: cover;
@@ -84,7 +87,6 @@ header {
   background-color: rgb(40, 128, 206);
 }
 .lesson-wrapper {
-  height: 500px;
   background-color: rgb(241, 241, 241);
   text-align: center;
 }
